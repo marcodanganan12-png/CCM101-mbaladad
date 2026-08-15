@@ -1,5 +1,5 @@
 # About Me
-**Name:** Marco Baladad
+**Name:** Marco Paulo Baladad
 **Course/Year/Block:** BSIT 4th Year Block A
 
 ## Why Cloud Computing Interests Me
