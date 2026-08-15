@@ -2,8 +2,10 @@
 
 # CCM101 – Cloud Computing Portfolio
 
-**Name:** Marco Baladad
-**Course:** CCM101 – Cloud Computing
+**Name:** Marco Paulo Baladad
+
+
+**Course:** BSIT - 4A
 
 ## About This Repository
 This repository serves as my professional Cloud Computing portfolio for the
